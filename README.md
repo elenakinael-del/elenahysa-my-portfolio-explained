@@ -14,7 +14,7 @@
 * **[gold-futures-spot-intraday-backtest](https://github.com/elenakinael-del/gold-futures-spot-intraday-backtest):** 5-strategy intraday engine (Private).
 
 ### 2. Market Microstructure Infrastructure
-Quantitative Market Microstructure Suite: A foundational research framework for modeling liquidity, order-flow toxicity, and systemic regime-based volatility. It integrates statistical and physics-inspired modeling to quantify systemic herding intensity and liquidity exhaustion in gold futures
+* **[Quantitative-Market-Microstructure-Suite](https://github.com/elenakinael-del/Quantitative-Market-Microstructure-Suite/tree/main):** A foundational research framework for modeling liquidity, order-flow toxicity, and systemic regime-based volatility. It integrates statistical and physics-inspired modeling to quantify systemic herding intensity and liquidity exhaustion in gold futures
 
 ### 3. Neuro-Market Theory
 
