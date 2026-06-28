@@ -4,7 +4,7 @@
 
 *Modeling the intersection of human cognitive bias and market mechanics in gold futures.*
 
-## 🔍 Research Pillars
+## Research Pillars
 
 ### 1. Quantitative Engines
 
