@@ -1,4 +1,3 @@
-# elenahysa-my-portfolio-explained
 
 # Neuro-Market Intelligence Research Suite
 *Modeling the intersection of human cognitive bias and market mechanics in gold futures.*
