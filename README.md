@@ -14,10 +14,10 @@
 * **[gold-futures-spot-intraday-backtest](https://github.com/elenakinael-del/gold-futures-spot-intraday-backtest):** 5-strategy intraday engine (Private).
 
 ### 2. Neuro-Market Theory
-(Kuramoto for herding, action potential analogies)
+
 * **[neuro-market-intelligence](https://github.com/elenakinael-del/neuro-market-intelligence):** Multi-disciplinary framework using Kuramoto synchronization to model institutional herding.
 * **[gold-herding-synchronization-kuramoto](https://github.com/elenakinael-del/gold-herding-synchronization-kuramoto):** Alpha signals derived from trader stress and oscillator coupling.
-* **[market-oscillator-models](https://github.com/elenakinael-del/market-oscillator-models):** Biomimetic simulations of microstructure using action potential analogies.
+* **[market-oscillator-models](https://github.com/elenakinael-del/market-oscillator-models):** Kuramoto for herding, simulations of microstructure using action potential analogies.
 
 ### 3. Advanced Visualization & Manifolds
 
