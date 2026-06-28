@@ -1,6 +1,6 @@
 
 
-# Research Suite
+# Gold Quant Research Suite
 
 *Modeling the intersection of human cognitive bias and market mechanics in gold futures.*
 
@@ -29,7 +29,7 @@
 ### 4. Data & Econometric Infrastructure
 
 * **[SaaS-Financial-Intelligence-Suite](https://github.com/elenakinael-del/SaaS-Financial-Intelligence-Suite):** Institutional SaaS data engine & automated ledger pipeline.
-* **[gold-volatility-psychophysics-cot-HMM-GARCH](https://github.com/elenakinael-del/gold-volatility-psychophysics-cot-HMM-GARCH):** Novel Weber-Fechner encoding of COT features with HMM regime detection.
+* **[gold-volatility-psychophysics-cot-HMM-GARCH](https://github.com/elenakinael-del/gold-volatility-psychophysics-cot-HMM-GARCH):** Weber-Fechner encoding of COT features with HMM regime detection.
 * **[gold-volatility-forecasting-har](https://github.com/elenakinael-del/gold-volatility-forecasting-har):** Baseline volatility modeling.
 * **[fincrime-toolkit](https://www.google.com/search?q=https://github.com/elenakinael-del/fincrime-toolkit):** Specialized financial compliance and integrity tooling.
 
