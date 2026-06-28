@@ -6,18 +6,18 @@
 
 ## 🔍 Research Pillars
 
-### 1. Neuro-Market Theory
-
-* **[neuro-market-intelligence](https://github.com/elenakinael-del/neuro-market-intelligence):** Multi-disciplinary framework using Kuramoto synchronization to model institutional herding.
-* **[gold-herding-synchronization-kuramoto](https://github.com/elenakinael-del/gold-herding-synchronization-kuramoto):** Alpha signals derived from trader stress and oscillator coupling.
-* **[market-oscillator-models](https://github.com/elenakinael-del/market-oscillator-models):** Biomimetic simulations of microstructure using action potential analogies.
-
-### 2. Quantitative Engines
+### 1. Quantitative Engines
 
 * **[gc-futures-quant-framework_aurum](https://github.com/elenakinael-del/gc-futures-quant-framework_aurum):** A full institutional stack: vol surface, risk attribution, and execution intelligence.
 * **[gold-kalman-regime-suite](https://github.com/elenakinael-del/gold-kalman-regime-suite):** Dynamic fair value modeling using regime-switching Kalman filters.
 * **[gold-options-flow-signals](https://github.com/elenakinael-del/gold-options-flow-signals):** Analysis of dealer options flow (GEX/Vanna/Charm) with 3D surface visualizations.
 * **[gold-futures-spot-intraday-backtest](https://github.com/elenakinael-del/gold-futures-spot-intraday-backtest):** 5-strategy intraday engine (Private).
+
+### 2. Neuro-Market Theory
+(Kuramoto for herding, action potential analogies)
+* **[neuro-market-intelligence](https://github.com/elenakinael-del/neuro-market-intelligence):** Multi-disciplinary framework using Kuramoto synchronization to model institutional herding.
+* **[gold-herding-synchronization-kuramoto](https://github.com/elenakinael-del/gold-herding-synchronization-kuramoto):** Alpha signals derived from trader stress and oscillator coupling.
+* **[market-oscillator-models](https://github.com/elenakinael-del/market-oscillator-models):** Biomimetic simulations of microstructure using action potential analogies.
 
 ### 3. Advanced Visualization & Manifolds
 
