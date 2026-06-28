@@ -13,7 +13,10 @@
 * **[gold-options-flow-signals](https://github.com/elenakinael-del/gold-options-flow-signals):** Analysis of dealer options flow (GEX/Vanna/Charm) with 3D surface visualizations.
 * **[gold-futures-spot-intraday-backtest](https://github.com/elenakinael-del/gold-futures-spot-intraday-backtest):** 5-strategy intraday engine (Private).
 
-### 2. Neuro-Market Theory
+### 2. Market Microstructure Infrastructure
+Quantitative Market Microstructure Suite: A foundational research framework for modeling liquidity, order-flow toxicity, and systemic regime-based volatility. It integrates statistical and physics-inspired modeling to quantify systemic herding intensity and liquidity exhaustion in gold futures
+
+### 3. Neuro-Market Theory
 
 * **[neuro-market-intelligence](https://github.com/elenakinael-del/neuro-market-intelligence):** Multi-disciplinary framework using Kuramoto synchronization to model institutional herding.
 * **[gold-herding-synchronization-kuramoto](https://github.com/elenakinael-del/gold-herding-synchronization-kuramoto):** Alpha signals derived from trader stress and oscillator coupling.
