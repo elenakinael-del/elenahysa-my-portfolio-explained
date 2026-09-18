@@ -1,4 +1,4 @@
-Access portfolio here https://elenakinael-del.github.io/my-github-portfolio/#work 
+Access portfolio here https://elenakinael-del.github.io/my-github-portfolio
 
 # Gold Quant Research Suite
 
